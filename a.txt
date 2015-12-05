@@ -1,3 +1,14 @@
-hiii
+ACM Recsys Challenge - 2013
+We worked on ACM Recsys Challenge 2013, that was organised by Yelp. I learnt about state of the art collaborative filtering techniques, and fundamentals of machine learning. I applied Matrix Factorization techniques like Biased Matrix Factorization (wherein we included global bias, user bias and item bias while predicting the item rating given by a user), Regularized SVD to learn user and item latent factors by minimizing the reconstruction error on observed ratings. I also developed neighborhood models using cosine similarity and hashing similarity as similarity metrics, wherein rating prediction was done through assembly of ratings on similar items or by similar users. Various improvements were made by ensembling independent models generated through neighborhood and matrix factorization techniques. 
+We had 5315 unknown users out of 51296 users, 1205 unknown businesses out of 12742 businesses, 2466 (unknown user, unknown item) tuples out of 22956 tuples which shows that the challenge wanted us to tackle the cold start problem. To deal with this, we applied novel techniques of generating training data. We added unknown users and items in the training data by using the data of nearest users and items. Also, we used global user and item ratings, ratings from similar neighbors to make predictions for unknown users and items. 
+We could achieve an improvement of 3% RMSE over the global user mean baseline.
+Also, the implementation of Biased Matrix Factorization algorithm has been added to Recsyslab (an open source library for recommender system algorithms).
 
-I am rakshit
+Some Other Tasks Completed -
+Crawled Twitter Timelines of followers for a given set of users. Used Twitter4J Java library for Twitter API.
+Helped in creating baselines (by computing hit-rates and avg reciprocal hit rates in top 1,5,10,15,20,30,40 and 50 for different learning rates, regularization constants and # of epochs) using leave one out, leave 5 out, leave 10 out approaches for 2014wsdm lfm dataset.
+Actively participated in reading group sessions to discuss top influential papers in the area of recommender systems. In a typical session, one would present the overall work in the paper and every participant pin pointed strengths and weakness in the paper. Also, attended several research seminars given by researchers at l3s including people finishing their bachelors, masters and PhD. 
+Helped in conducting surveys for research purposes.
+Through the work, I have gained lots of insights in the field of recommender systems.
+
+
