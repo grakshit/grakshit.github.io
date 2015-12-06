@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Prologue by HTML5 UP</title>
+		<title>Rakshit Gautam</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
@@ -45,8 +45,8 @@
 							-->
 							<ul>
 								<li><a href="#top" id="top-link" class="skel-layers-ignoreHref"><span class="icon fa-home">Intro</span></a></li>
-								<li><a href="#portfolio" id="portfolio-link" class="skel-layers-ignoreHref"><span class="icon fa-th">Portfolio</span></a></li>
-								<li><a href="#about" id="about-link" class="skel-layers-ignoreHref"><span class="icon fa-user">About Me</span></a></li>
+								<li><a href="#portfolio" id="portfolio-link" class="skel-layers-ignoreHref"><span class="icon fa-th">Projects</span></a></li>
+								<li><a href="#about" id="about-link" class="skel-layers-ignoreHref"><span class="icon fa-th">Course Work</span></a></li>
 								<li><a href="#contact" id="contact-link" class="skel-layers-ignoreHref"><span class="icon fa-envelope">Contact</span></a></li>
 							</ul>
 						</nav>
@@ -76,14 +76,12 @@
 						<div class="container">
 
 							<header>
-								<h2 class="alt">Hi! I'm <strong>Prologue</strong>, a <a href="http://html5up.net/license">free</a> responsive<br />
-								site template designed by <a href="http://html5up.net">HTML5 UP</a>.</h2>
-								<p>Ligula scelerisque justo sem accumsan diam quis<br />
-								vitae natoque dictum sollicitudin elementum.</p>
+								<p class="alt">I have been working as a <strong>software engineer</strong> at <a href="https://en.wikipedia.org/wiki/Samsung_R%26D_Institute_India,_Noida">Samsung R&D Institute India, Noida</a> since July 2015.
+								I have recently graduated from Indian Institute of Technology, Delhi with a Bachelor of Technology degree in <a href="http://www.cse.iitd.ac.in">Computer Science and Engineering</a>. I want to pursue research and get more exposure in the fields of <br/>Computer Vision, Machine Learning and Data Mining.  
 							</header>
 
 							<footer>
-								<a href="#portfolio" class="button scrolly">Magna Aliquam</a>
+								<a href="#portfolio" class="button scrolly">About Me</a>
 							</footer>
 
 						</div>
@@ -94,60 +92,17 @@
 						<div class="container">
 
 							<header>
-								<h2>Portfolio</h2>
+								<h2>Projects and Internships</h2>
 							</header>
 
-							<p>Vitae natoque dictum etiam semper magnis enim feugiat convallis convallis
-							egestas rhoncus ridiculus in quis risus amet curabitur tempor orci penatibus.
-							Tellus erat mauris ipsum fermentum etiam vivamus eget. Nunc nibh morbi quis
-							fusce hendrerit lacus ridiculus.</p>
+							<p>Some of the independent projects done at IIT Delhi and Interships are described below -</p>
 
-							<div class="row">
-								<div class="4u 12u$(mobile)">
-									<article class="item">
-										<a href="#" class="image fit"><img src="images/pic02.jpg" alt="" /></a>
-										<header>
-											<h3>Ipsum Feugiat</h3>
-										</header>
-									</article>
-									<article class="item">
-										<a href="#" class="image fit"><img src="images/pic03.jpg" alt="" /></a>
-										<header>
-											<h3>Rhoncus Semper</h3>
-										</header>
-									</article>
-								</div>
-								<div class="4u 12u$(mobile)">
-									<article class="item">
-										<a href="#" class="image fit"><img src="images/pic04.jpg" alt="" /></a>
-										<header>
-											<h3>Magna Nullam</h3>
-										</header>
-									</article>
-									<article class="item">
-										<a href="#" class="image fit"><img src="images/pic05.jpg" alt="" /></a>
-										<header>
-											<h3>Natoque Vitae</h3>
-										</header>
-									</article>
-								</div>
-								<div class="4u$ 12u$(mobile)">
-									<article class="item">
-										<a href="#" class="image fit"><img src="images/pic06.jpg" alt="" /></a>
-										<header>
-											<h3>Dolor Penatibus</h3>
-										</header>
-									</article>
-									<article class="item">
-										<a href="#" class="image fit"><img src="images/pic07.jpg" alt="" /></a>
-										<header>
-											<h3>Orci Convallis</h3>
-										</header>
-									</article>
-								</div>
-							</div>
+							<p><h3> ACM Recys Challenge 2013 : Yelp Business Rating Prediction </h3><br/>
+							Worked under the supervision of <a href="http://researcher.ibm.com/researcher/view.php?person=ie-e.diaz-aviles">Dr. Ernesto Diaz-Aviles</a> at <a href="https://www.l3s.de/home">L3S Research Center</a>, Hannover, Germany. I worked on creating a recommender system that predicted ratings for (user,business) pair. A certificate of appreciation describing my work can be seen <a href="http://grakshit.github.io/letter.pdf">here</a>.</p> 
+							
+							<p><h3> ACM Recys Challenge 2013 : Yelp Business Rating Prediction </h3><br/>
+							Worked under the supervision of <a href="http://researcher.ibm.com/researcher/view.php?person=ie-e.diaz-aviles">Dr. Ernesto Diaz-Aviles</a> at <a href="https://www.l3s.de/home">L3S Research Center</a>, Hannover, Germany. I worked on creating a recommender system that predicted ratings for (user,business) pair. A certificate of appreciation describing my work can be seen <a href="http://grakshit.github.io/letter.pdf">here</a>.</p>
 
-						</div>
 					</section>
 
 				<!-- About Me -->
@@ -178,38 +133,12 @@
 								<h2>Contact</h2>
 							</header>
 
-							<p>Elementum sem parturient nulla quam placerat viverra
-							mauris non cum elit tempus ullamcorper dolor. Libero rutrum ut lacinia
-							donec curae mus. Eleifend id porttitor ac ultricies lobortis sem nunc
-							orci ridiculus faucibus a consectetur. Porttitor curae mauris urna mi dolor.</p>
-
-							<form method="post" action="#">
-								<div class="row">
-									<div class="6u 12u$(mobile)"><input type="text" name="name" placeholder="Name" /></div>
-									<div class="6u$ 12u$(mobile)"><input type="text" name="email" placeholder="Email" /></div>
-									<div class="12u$">
-										<textarea name="message" placeholder="Message"></textarea>
-									</div>
-									<div class="12u$">
-										<input type="submit" value="Send Message" />
-									</div>
-								</div>
-							</form>
-
-						</div>
-					</section>
-
+							<p align="left"><strong>Correspondence Address</strong> - Seat Number 4F-121, TowerD, Plot No 28/29, Logix Cyber Park, Noida Sector 62, &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+&nbsp
+Noida, India - 201309 <br/> <b>Call Me</b> - 0919958639529<br/> <b>Email</b> - <a href="mailto:raks.gautam@gmail.com">raks.gautam@gmail.com</a></p>
 			</div>
 
-		<!-- Footer -->
-			<div id="footer">
-
-				<!-- Copyright -->
-					<ul class="copyright">
-						<li>&copy; Untitled. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
-					</ul>
-
-			</div>
 
 		<!-- Scripts -->
 			<script src="assets/js/jquery.min.js"></script>
